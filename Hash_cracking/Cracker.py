@@ -5,7 +5,7 @@ import hashlib #imports the module hashlib
 import datetime #imports the module hashlib
 
 count = 0 #defines count
-hashlist = open("a0042110_HAYES_AARON.txt", "r") #defines hashlist by opening the hashlist
+hashlist = open("HAYES_AARON.txt", "r") #defines hashlist by opening the hashlist
 dic = open("ow_tiny_lower.lst", "r") #defines dic by opening the wordlist
 
 
